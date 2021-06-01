@@ -1,0 +1,33 @@
+export const SliderData = [
+  {
+    img: "https://cdn.mos.cms.futurecdn.net/vChK6pTy3vN3KbYZ7UU7k3.jpg"
+  },
+  {
+    img:
+      "https://www.veterinarypracticenews.com/wp-content/uploads/2019/08/bigstock-Little-Striped-Cute-Kitten-Sit-244080397.jpg"
+  },
+  {
+    img:
+      "https://www.telegraph.co.uk/content/dam/Pets/spark/royal-canin/tabby-kitten-small-xlarge.jpg"
+  },
+  {
+    img:
+      "https://images.medicanimal.com/image/upload/v1568124056/pethub/Kitten.jpg"
+  },
+  {
+    img:
+      "http://r.ddmcdn.com/w_606/s_f/o_1/cx_0/cy_15/cw_606/ch_404/APL/uploads/2014/06/01-kitten-cuteness-1.jpg"
+  },
+  {
+    img:
+      "https://www.pngjoy.com/pngm/10/314614_kitten-cats-and-kittens-png-hd-png-download.png"
+  },
+  {
+    img:
+      "https://images.pexels.com/photos/9413/animal-cute-kitten-cat.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    img:
+      "https://www.desktopbackground.org/download/o/2011/04/03/182239_kittens-kitten-cat-cats-baby-cute-s-wallpapers_2560x1600_h.jpg"
+  }
+];
